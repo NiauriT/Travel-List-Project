@@ -1,3 +1,5 @@
+🙌 Made with 💙 by Tornike Niauri
+
 # 🧳 Travel List App ✈️
 
 A smart and minimal travel packing app built with React. Easily add, check off, and remove items for your next trip — perfect for staying organized and never forgetting anything again!
@@ -57,8 +59,6 @@ travel-list-project/
 
 🌍 Add multiple trip support
 
-
-🙌 Made with 💙 by Tornike Niauri
 
 ---
 
