@@ -28,18 +28,6 @@ A smart and minimal travel packing app built with React. Easily add, check off, 
 
 ---
 
-## 💻 Installation
-
-Run this project locally:
-
-```bash
-git clone https://github.com/NiauriT/travel-list-project.git
-cd travel-list-project
-npm install
-npm start
-
----
-
 ## 🗂️ File Structure
 pgsql
 Copy
@@ -71,3 +59,16 @@ travel-list-project/
 
 
 🙌 Made with 💙 by Tornike Niauri
+
+---
+
+## 💻 Installation
+
+Run this project locally:
+
+```bash
+git clone https://github.com/NiauriT/travel-list-project.git
+cd travel-list-project
+npm install
+npm start
+
