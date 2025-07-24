@@ -31,9 +31,7 @@ A smart and minimal travel packing app built with React. Easily add, check off, 
 ---
 
 ## 🗂️ File Structure
-pgsql
-Copy
-Edit
+
 travel-list-project/
 ├── public/
 │   └── index.html
