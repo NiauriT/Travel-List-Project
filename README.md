@@ -1,3 +1,8 @@
+🚀 Update!
+Travel List Webapp This project will be upgraded to include React Hooks and Redux Toolkit for better state management and a modern React architecture.
+
+Make the application fully responsive for all devices. ✅
+
 🙌 Made with 💙 by Tornike Niauri
 
 # 🧳 Travel List App ✈️
