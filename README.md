@@ -1,7 +1,22 @@
-🚀 Update!
-Travel List Webapp This project will be upgraded to include React Hooks and Redux Toolkit for better state management and a modern React architecture.
+# 🗺️ Incoming Upgrade: Interactive Map
 
-Make the application fully responsive for all devices. ✅
+The next upgrade will bring an interactive map to the Travel List project, making it even easier to visualize and manage your travel destinations.
+Make the application fully responsive for all devices. 
+
+🔹 Features Coming Soon
+
+Automatic Geolocation: The map will detect your current location without needing to log in.
+
+City Search: Quickly jump to any city using a search input.
+
+Zoom & Pan: Easily zoom in/out and move around the map to explore destinations.
+
+Dynamic Markers: Locations you add to your travel list will appear as markers on the map.
+
+Responsive Design: Works seamlessly on all devices, from desktop to mobile.
+
+This upgrade aims to enhance the user experience by providing a visual, interactive way to manage and explore your travel plans.
+
 
 🙌 Made with 💙 by Tornike Niauri
 
