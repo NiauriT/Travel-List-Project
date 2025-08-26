@@ -31,16 +31,20 @@ export default function App() {
   }
 
   return (
-    <div className="app">
-      <Logo />
+  <div className="app">
+    <Logo />
+    
+    <div className="form-wrapper">
       <Form onAddItems={handleAddItems} />
-      <PackingList
-        items={items}
-        onDeleteItem={handleDeleteItem}
-        onToggleItem={handleToggleItem}
-        onClearList={handleClearList}
-      />
-      <Stats items={items} />
     </div>
-  );
+
+    <PackingList
+      items={items}
+      onDeleteItem={handleDeleteItem}
+      onToggleItem={handleToggleItem}
+      onClearList={handleClearList}
+    />
+    <Stats items={items} />
+  </div>
+);
 }

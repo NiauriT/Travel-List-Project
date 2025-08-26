@@ -1,0 +1,15 @@
+.main-content {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.list-wrapper {
+  width: 50%;
+}
+
+.map-container {
+  width: 50%;
+  height: 500px; /* adjust height as you like */
+}
