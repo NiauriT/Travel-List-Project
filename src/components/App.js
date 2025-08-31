@@ -3,6 +3,9 @@ import Logo from "./Logo";
 import Form from "./Form";
 import PackingList from "./PackingList";
 import Stats from "./Stats";
+import LeafletMap from "./LeafletMap";
+import "leaflet-routing-machine/dist/leaflet-routing-machine.css";
+
 
 export default function App() {
   const [items, setItems] = useState([]);
@@ -44,7 +47,9 @@ export default function App() {
       onToggleItem={handleToggleItem}
       onClearList={handleClearList}
     />
+    
     <Stats items={items} />
+    <LeafletMap />
   </div>
 );
 }
